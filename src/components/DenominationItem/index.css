@@ -1,0 +1,16 @@
+.list-item {
+  margin: 12px;
+}
+
+.button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  border: 1px solid #c4c4c4;
+  border-radius: 12px;
+  width: 45%;
+  height: 60px;
+  cursor: pointer;
+}
